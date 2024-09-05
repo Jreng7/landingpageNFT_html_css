@@ -1,0 +1,15 @@
+.hero {
+    display: flex;
+}
+
+.hero__left, 
+.hero__right {
+    border: 1px solid red;
+    height: 300px;
+    width: 400px;
+    flex: 1;
+}
+
+.hero__title {
+    font-size: 2rem;
+} 
