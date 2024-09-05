@@ -1,3 +1,18 @@
 .header {
     display: flex;
+    justify-content: space-between;
+    padding-inline: 1.5rem;
+    padding-block: 1.5rem;
 }
+
+.header__logo {
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+.nav__ul {
+    list-style: none;
+    display: flex;
+    gap: 2rem;
+}
+
