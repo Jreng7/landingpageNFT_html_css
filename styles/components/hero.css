@@ -4,12 +4,12 @@
 
 .hero__left, 
 .hero__right {
-    border: 1px solid red;
-    height: 300px;
-    width: 400px;
     flex: 1;
 }
 
 .hero__title {
     font-size: 2rem;
+    line-height: 1.1;
+    font-weight: 500;
+    letter-spacing: 0.05em;
 } 
