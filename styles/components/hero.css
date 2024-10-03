@@ -21,3 +21,7 @@
     font-weight: 300;
     line-height: calc(1em + 0.5rem);
 }
+
+.hero_btn {
+    background-color: red;
+}
