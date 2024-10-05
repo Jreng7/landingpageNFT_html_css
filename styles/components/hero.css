@@ -23,7 +23,7 @@
 }
 
 .hero_btn {
-    background: linear-gradient();
+    background: linear-gradient(to right, #E8546B, #ac3cf6);
     padding: 0.5em 1.5em;
     border-radius: 7px;
 }
