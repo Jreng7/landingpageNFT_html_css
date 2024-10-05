@@ -20,10 +20,12 @@
     opacity: 0.5;
     font-weight: 300;
     line-height: calc(1em + 0.5rem);
+    margin-block: 1.3rem;
 }
 
 .hero_btn {
     background: linear-gradient(to right, #E8546B, #ac3cf6);
-    padding: 0.5em 1.5em;
+    padding: 0.5em 1.4em;
     border-radius: 7px;
+    color: #000;
 }
