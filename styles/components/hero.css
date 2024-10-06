@@ -2,6 +2,7 @@
   display: flex;
   padding-inline: 1.28rem;
   margin-top: 5rem;
+	overflow: hidden;
 }
 
 .hero__left,
@@ -39,6 +40,10 @@
   color: #000;
 }
 
+/* -- HERO RIGHT -- */
+
 .hero__img_right {
-	
+	transform: rotate(15deg);
+	max-width: 500px;
+	height: auto;
 }
