@@ -1,6 +1,7 @@
 .hero {
     display: flex;
     padding-inline: 1.28rem;
+    margin-top: 5rem;
 }
 
 .hero__left, 
