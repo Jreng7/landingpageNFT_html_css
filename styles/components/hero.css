@@ -3,6 +3,8 @@
   padding-inline: 1.28rem;
   margin-top: 5rem;
 	overflow: hidden;
+	max-width: 1280px;
+	margin-inline: auto;
 }
 
 .hero__left,
@@ -45,5 +47,4 @@
 .hero__img_right {
 	transform: rotate(15deg);
 	max-width: 500px;
-	height: auto;
 }
