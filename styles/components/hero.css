@@ -8,8 +8,11 @@
     flex: 1;
 }
 
-.up_text {
+.hero__up_text {
     text-transform: uppercase;
+    font-size: 12px;
+    font-weight: 600;
+    color: #2eb1a3;
 }
 
 .hero__title {
@@ -17,6 +20,7 @@
     line-height: 1.1;
     font-weight: 500;
     letter-spacing: 0.05em;
+    margin-top: 0.5rem;
 }
 
 .hero_description {
