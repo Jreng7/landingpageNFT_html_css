@@ -13,6 +13,7 @@
 
 body {
     min-height: 100vh;
+    margin-inline: auto;
     background-color: #06061A;
     color: #f3f3f3;
     font-family: "Poppins", sans-serif;
