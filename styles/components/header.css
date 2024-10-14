@@ -23,4 +23,7 @@
 /* MOBILE - MEDIA QUERY */
 
 @media (width < 768px) {
+	.nav__mobile {
+		display: none;
+	}
 }
