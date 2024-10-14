@@ -5,6 +5,8 @@
     padding-block: 1.5rem;
     align-items: center;
     margin-bottom: 5px;
+    max-width: 1400px;
+    margin-inline: auto;
 }
 
 .header__logo {
