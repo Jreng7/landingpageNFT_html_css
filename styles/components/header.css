@@ -20,6 +20,10 @@
   gap: 2rem;
 }
 
+.header__icon-btn {
+	display: none;
+}
+
 .header__menu {
 	height: 1.75rem;
 	width: 1.75rem;
@@ -31,4 +35,8 @@
 	.nav__mobile {
 		display: none;
 	}
+	.header__icon-btn {
+		display: block;
+}
+
 }
