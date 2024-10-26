@@ -54,3 +54,11 @@
 	transform: rotate(15deg);
 	max-width: 500px;
 }
+
+/* -- HERO MEDIA -- */
+@media (width < 1024px) {
+  .hero {
+    flex-direction:  column;
+  }
+}
+
